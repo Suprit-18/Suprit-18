@@ -19,13 +19,15 @@
 
 ## 🌐 Connect with me
 <p align="left">
-<a href="https://instagram.com/">
+<a href="https://www.instagram.com/suprit231/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/>
 </a>
-<a href="https://linkedin.com/">
+
+<a href="https://www.linkedin.com/in/suprit-kumar-sharma-0587aa329" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:your-email@gmail.com">
+
+<a href="mailto:supritkumarsharma@gmail.com">
 <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
